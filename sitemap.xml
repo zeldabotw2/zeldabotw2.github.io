@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zeldabotw2.github.io/MHN-weapon/</loc>
+    
+    <lastmod>2023-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeldabotw2.github.io/Nindou-4-alpha/</loc>
+    
+    <lastmod>2023-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zeldabotw2.github.io/Nindou-4-alpha/</loc>
     
     <lastmod>2023-09-26</lastmod>
@@ -746,6 +764,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://zeldabotw2.github.io/tags/MHN/</loc>
+    <lastmod>2023-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -778,6 +803,13 @@
   
   <url>
     <loc>https://zeldabotw2.github.io/categories/%E5%BF%8D%E8%B1%86%E9%A2%A8%E9%9B%B24/</loc>
+    <lastmod>2023-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BANow/</loc>
     <lastmod>2023-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
