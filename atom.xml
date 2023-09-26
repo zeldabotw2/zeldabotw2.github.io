@@ -6,7 +6,7 @@
   <link href="https://zeldabotw2.github.io/atom.xml" rel="self"/>
   
   <link href="https://zeldabotw2.github.io/"/>
-  <updated>2023-09-26T07:48:44.497Z</updated>
+  <updated>2023-09-26T08:16:25.211Z</updated>
   <id>https://zeldabotw2.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>《忍豆風雲4》測試服來了！有生之年還玩得到續作！</title>
-    <link href="https://zeldabotw2.github.io/Nindou-4-alpha/"/>
-    <id>https://zeldabotw2.github.io/Nindou-4-alpha/</id>
-    <published>2023-09-25T16:00:00.000Z</published>
-    <updated>2023-09-26T07:48:44.497Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Nindou-4-alpha/%E5%BF%8D4%E6%B8%AC%E8%A9%A6%E6%9C%8D-0001.jpg&quot; alt=&quot;忍4測試服-0001&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;忍豆風雲出續作了！&quot;&gt;&lt;a href=&quot;#忍豆風雲出續作了！&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>《MHNow》武器排行！</title>
@@ -60,9 +38,9 @@
     <category term="魔物獵人Now" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BANow/"/>
     
     
-    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
-    
     <category term="MHN" scheme="https://zeldabotw2.github.io/tags/MHN/"/>
+    
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
     
   </entry>
   
@@ -192,13 +170,13 @@
     
     <category term="王國之淚" scheme="https://zeldabotw2.github.io/tags/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A/"/>
     
+    <category term="格魯德" scheme="https://zeldabotw2.github.io/tags/%E6%A0%BC%E9%AD%AF%E5%BE%B7/"/>
+    
     <category term="環卡飾品" scheme="https://zeldabotw2.github.io/tags/%E7%92%B0%E5%8D%A1%E9%A3%BE%E5%93%81/"/>
     
     <category term="卡卡利科村" scheme="https://zeldabotw2.github.io/tags/%E5%8D%A1%E5%8D%A1%E5%88%A9%E7%A7%91%E6%9D%91/"/>
     
     <category term="珂珂娜" scheme="https://zeldabotw2.github.io/tags/%E7%8F%82%E7%8F%82%E5%A8%9C/"/>
-    
-    <category term="格魯德" scheme="https://zeldabotw2.github.io/tags/%E6%A0%BC%E9%AD%AF%E5%BE%B7/"/>
     
     <category term="戀愛教室" scheme="https://zeldabotw2.github.io/tags/%E6%88%80%E6%84%9B%E6%95%99%E5%AE%A4/"/>
     
@@ -420,6 +398,8 @@
     
     <category term="王國之淚" scheme="https://zeldabotw2.github.io/tags/%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A/"/>
     
+    <category term="拉姆達的財寶" scheme="https://zeldabotw2.github.io/tags/%E6%8B%89%E5%A7%86%E9%81%94%E7%9A%84%E8%B2%A1%E5%AF%B6/"/>
+    
     <category term="鬼神裝備" scheme="https://zeldabotw2.github.io/tags/%E9%AC%BC%E7%A5%9E%E8%A3%9D%E5%82%99/"/>
     
     <category term="鬼神服" scheme="https://zeldabotw2.github.io/tags/%E9%AC%BC%E7%A5%9E%E6%9C%8D/"/>
@@ -427,8 +407,6 @@
     <category term="阿卡萊堡壘" scheme="https://zeldabotw2.github.io/tags/%E9%98%BF%E5%8D%A1%E8%90%8A%E5%A0%A1%E5%A3%98/"/>
     
     <category term="睡床" scheme="https://zeldabotw2.github.io/tags/%E7%9D%A1%E5%BA%8A/"/>
-    
-    <category term="拉姆達的財寶" scheme="https://zeldabotw2.github.io/tags/%E6%8B%89%E5%A7%86%E9%81%94%E7%9A%84%E8%B2%A1%E5%AF%B6/"/>
     
   </entry>
   
@@ -589,13 +567,13 @@
     <category term="魔物獵人崛起：破曉" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89/"/>
     
     
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
     <category term="MHR" scheme="https://zeldabotw2.github.io/tags/MHR/"/>
     
     <category term="Monster Hunter Rise" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Rise/"/>
     
     <category term="Sunbreak" scheme="https://zeldabotw2.github.io/tags/Sunbreak/"/>
-    
-    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
     
     <category term="魔物獵人崛起" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7/"/>
     
@@ -624,13 +602,13 @@
     <category term="魔物獵人崛起：破曉" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89/"/>
     
     
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
     <category term="MHR" scheme="https://zeldabotw2.github.io/tags/MHR/"/>
     
     <category term="Monster Hunter Rise" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Rise/"/>
     
     <category term="Sunbreak" scheme="https://zeldabotw2.github.io/tags/Sunbreak/"/>
-    
-    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
     
     <category term="魔物獵人崛起" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7/"/>
     
@@ -659,13 +637,13 @@
     <category term="魔物獵人崛起：破曉" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89/"/>
     
     
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
     <category term="MHR" scheme="https://zeldabotw2.github.io/tags/MHR/"/>
     
     <category term="Monster Hunter Rise" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Rise/"/>
     
     <category term="Sunbreak" scheme="https://zeldabotw2.github.io/tags/Sunbreak/"/>
-    
-    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
     
     <category term="魔物獵人崛起" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7/"/>
     
@@ -698,19 +676,59 @@
     <category term="魔物獵人崛起：破曉" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89/"/>
     
     
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
     <category term="MHR" scheme="https://zeldabotw2.github.io/tags/MHR/"/>
     
     <category term="Monster Hunter Rise" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Rise/"/>
     
     <category term="Sunbreak" scheme="https://zeldabotw2.github.io/tags/Sunbreak/"/>
     
-    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
-    
     <category term="魔物獵人崛起" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7/"/>
     
     <category term="破曉" scheme="https://zeldabotw2.github.io/tags/%E7%A0%B4%E6%9B%89/"/>
     
     <category term="城塞高地" scheme="https://zeldabotw2.github.io/tags/%E5%9F%8E%E5%A1%9E%E9%AB%98%E5%9C%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《MHR Sunbreak》神秘情報商妙妙：艾爾卡多的 Special 秘密情報其 2</title>
+    <link href="https://zeldabotw2.github.io/MHR-miaomiao-SP2/"/>
+    <id>https://zeldabotw2.github.io/MHR-miaomiao-SP2/</id>
+    <published>2022-08-05T16:00:00.000Z</published>
+    <updated>2022-08-06T07:06:05.353Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/MHR-miaomiao-SP2/%E5%A6%99%E5%A6%99sp2.png&quot; alt=&quot;妙妙sp2&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;艾爾卡多的-Speical-秘密情報其-2&quot;&gt;&lt;a href=&quot;#艾爾卡多的-Speical-秘密情報其-2&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="魔物獵人崛起：破曉 - 情報商妙妙專欄" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7%EF%BC%9A%E7%A0%B4%E6%9B%89-%E6%83%85%E5%A0%B1%E5%95%86%E5%A6%99%E5%A6%99%E5%B0%88%E6%AC%84/"/>
+    
+    
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
+    <category term="MHR" scheme="https://zeldabotw2.github.io/tags/MHR/"/>
+    
+    <category term="Monster Hunter Rise" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Rise/"/>
+    
+    <category term="Sunbreak" scheme="https://zeldabotw2.github.io/tags/Sunbreak/"/>
+    
+    <category term="魔物獵人崛起" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E5%B4%9B%E8%B5%B7/"/>
+    
+    <category term="破曉" scheme="https://zeldabotw2.github.io/tags/%E7%A0%B4%E6%9B%89/"/>
+    
+    <category term="妙妙" scheme="https://zeldabotw2.github.io/tags/%E5%A6%99%E5%A6%99/"/>
+    
+    <category term="神秘情報商" scheme="https://zeldabotw2.github.io/tags/%E7%A5%9E%E7%A7%98%E6%83%85%E5%A0%B1%E5%95%86/"/>
     
   </entry>
   
