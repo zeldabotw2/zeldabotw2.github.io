@@ -6,7 +6,7 @@
   <link href="https://zeldabotw2.github.io/atom.xml" rel="self"/>
   
   <link href="https://zeldabotw2.github.io/"/>
-  <updated>2025-03-11T06:07:59.216Z</updated>
+  <updated>2025-03-12T03:18:44.907Z</updated>
   <id>https://zeldabotw2.github.io/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《魔物獵人荒野》斬味補正 | 斬味傷害補正 | 斬味屬性補正 | 係數</title>
+    <link href="https://zeldabotw2.github.io/MHW-Sharpness-Multiplier/"/>
+    <id>https://zeldabotw2.github.io/MHW-Sharpness-Multiplier/</id>
+    <published>2025-03-11T16:00:00.000Z</published>
+    <updated>2025-03-12T03:18:44.907Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;斬味補正&quot;&gt;斬味補正&lt;/h2&gt;
+&lt;p&gt;荒野的&lt;strong&gt;斬味補正&lt;/strong&gt;係數，整理如圖：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/MHW-Sharpness-Multiplier/sharpness.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="魔物獵人荒野" scheme="https://zeldabotw2.github.io/categories/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E8%8D%92%E9%87%8E/"/>
+    
+    
+    <category term="魔物獵人" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA/"/>
+    
+    <category term="MHW" scheme="https://zeldabotw2.github.io/tags/MHW/"/>
+    
+    <category term="Monster Hunter Wild" scheme="https://zeldabotw2.github.io/tags/Monster-Hunter-Wild/"/>
+    
+    <category term="魔物獵人荒野" scheme="https://zeldabotw2.github.io/tags/%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%E8%8D%92%E9%87%8E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《魔物獵人荒野》技能效果詳解 | 持續時間 | 發動條件 | 發動機率</title>
     <link href="https://zeldabotw2.github.io/MHW-Skill-Effect-Detail/"/>
     <id>https://zeldabotw2.github.io/MHW-Skill-Effect-Detail/</id>
     <published>2025-03-10T16:00:00.000Z</published>
-    <updated>2025-03-11T06:07:59.216Z</updated>
+    <updated>2025-03-12T03:02:27.453Z</updated>
     
     
       
@@ -597,36 +630,6 @@
     
     
     <category term="忍豆風雲" scheme="https://zeldabotw2.github.io/tags/%E5%BF%8D%E8%B1%86%E9%A2%A8%E9%9B%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《跑跑卡丁車Rush+》如何開啟一鍵幸運球？</title>
-    <link href="https://zeldabotw2.github.io/One-Click-Lucky-Ball/"/>
-    <id>https://zeldabotw2.github.io/One-Click-Lucky-Ball/</id>
-    <published>2023-07-27T16:00:00.000Z</published>
-    <updated>2025-02-20T06:05:49.148Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/One-Click-Lucky-Ball/%E4%B8%80%E9%8D%B5%E5%B9%B8%E9%81%8B%E7%90%83-0017.jpg&quot; alt=&quot;一鍵幸運球-0017&quot;&gt;&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="跑跑卡丁車Rush+" scheme="https://zeldabotw2.github.io/categories/%E8%B7%91%E8%B7%91%E5%8D%A1%E4%B8%81%E8%BB%8ARush/"/>
-    
-    
-    <category term="Rush" scheme="https://zeldabotw2.github.io/tags/Rush/"/>
-    
-    <category term="一鍵幸運球" scheme="https://zeldabotw2.github.io/tags/%E4%B8%80%E9%8D%B5%E5%B9%B8%E9%81%8B%E7%90%83/"/>
-    
-    <category term="機器管家" scheme="https://zeldabotw2.github.io/tags/%E6%A9%9F%E5%99%A8%E7%AE%A1%E5%AE%B6/"/>
     
   </entry>
   
