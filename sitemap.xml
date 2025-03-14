@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zeldabotw2.github.io/MHW-Attack-Power/</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeldabotw2.github.io/MHW-Skill-Effect-Detail/</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeldabotw2.github.io/MHW-Zai-Huo-Zhi-Bu/</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zeldabotw2.github.io/MHW-Wyvernsprout/</loc>
     
     <lastmod>2025-03-14</lastmod>
@@ -12,15 +39,6 @@
   
   <url>
     <loc>https://zeldabotw2.github.io/MHW-SnS-Motion-Value/</loc>
-    
-    <lastmod>2025-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zeldabotw2.github.io/MHW-Skill-Effect-Detail/</loc>
     
     <lastmod>2025-03-13</lastmod>
     
@@ -41,15 +59,6 @@
     <loc>https://zeldabotw2.github.io/MHW-Control-Mapping/</loc>
     
     <lastmod>2025-03-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zeldabotw2.github.io/MHW-Zai-Huo-Zhi-Bu/</loc>
-    
-    <lastmod>2025-03-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
