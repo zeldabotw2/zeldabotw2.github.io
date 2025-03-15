@@ -1,3 +1,4 @@
+https://zeldabotw2.github.io/MHW-Fishing/
 https://zeldabotw2.github.io/MHW-Attack-Power/
 https://zeldabotw2.github.io/MHW-Skill-Effect-Detail/
 https://zeldabotw2.github.io/MHW-Zai-Huo-Zhi-Bu/
@@ -5,7 +6,6 @@ https://zeldabotw2.github.io/MHW-Wyvernsprout/
 https://zeldabotw2.github.io/MHW-SnS-Motion-Value/
 https://zeldabotw2.github.io/MHW-Sharpness-Multiplier/
 https://zeldabotw2.github.io/MHW-Control-Mapping/
-https://zeldabotw2.github.io/MHW-Fishing/
 https://zeldabotw2.github.io/Kartrider-Rush-Plus-Club/
 https://zeldabotw2.github.io/One-Click-Lucky-Ball/
 https://zeldabotw2.github.io/Taiko-Nijiiro-PC-Resources/
