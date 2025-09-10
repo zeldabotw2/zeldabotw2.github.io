@@ -6,7 +6,7 @@
   <link href="https://zeldabotw2.github.io/atom.xml" rel="self"/>
   
   <link href="https://zeldabotw2.github.io/"/>
-  <updated>2025-09-09T13:53:43.982Z</updated>
+  <updated>2025-09-10T06:19:46.215Z</updated>
   <id>https://zeldabotw2.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zeldabotw2.github.io/SilkSong-All-Ending/"/>
     <id>https://zeldabotw2.github.io/SilkSong-All-Ending/</id>
     <published>2025-09-07T16:00:00.000Z</published>
-    <updated>2025-09-09T13:53:43.982Z</updated>
+    <updated>2025-09-10T06:19:46.215Z</updated>
     
     
       
@@ -29,8 +29,7 @@
         
         
     <summary type="html">&lt;p&gt;安這裡台輟，這裡幫大家整理絲之歌結局的觸發條件，目前資訊來自我自己的遊玩內容跟網友的回報，隨著更多資料揭露，將繼續補充細節。&lt;/p&gt;
-&lt;p&gt;需要特別注意的是，如果想在同一個存檔完成所有結局，詛咒結局必須在進第三幕之前解完，否則將無法回頭咯。&lt;/p&gt;
-&lt;h2</summary>
+&lt;p&gt;需要特別注意的是，如果想在同一個存檔完成所有結局，&lt;strong&gt;詛咒結局必須在進第三幕之前解完&lt;/strong&gt;，否則將無法回頭咯。</summary>
         
       
     
@@ -96,6 +95,37 @@
     <category term="Rush" scheme="https://zeldabotw2.github.io/tags/Rush/"/>
     
     <category term="排位賽" scheme="https://zeldabotw2.github.io/tags/%E6%8E%92%E4%BD%8D%E8%B3%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《太鼓達人》Lightning Boys 全難易度譜面</title>
+    <link href="https://zeldabotw2.github.io/Lightning-Boys/"/>
+    <id>https://zeldabotw2.github.io/Lightning-Boys/</id>
+    <published>2025-08-15T16:00:00.000Z</published>
+    <updated>2025-09-10T08:13:02.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Lightning-Boys/lightning_boys.png&quot; alt=&quot;lightning_boys&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;鬼級譜面圖&quot;&gt;鬼級譜面圖&lt;/h3&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="太鼓達人" scheme="https://zeldabotw2.github.io/categories/%E5%A4%AA%E9%BC%93%E9%81%94%E4%BA%BA/"/>
+    
+    
+    <category term="太鼓達人" scheme="https://zeldabotw2.github.io/tags/%E5%A4%AA%E9%BC%93%E9%81%94%E4%BA%BA/"/>
+    
+    <category term="TJA" scheme="https://zeldabotw2.github.io/tags/TJA/"/>
+    
+    <category term="譜面下載" scheme="https://zeldabotw2.github.io/tags/%E8%AD%9C%E9%9D%A2%E4%B8%8B%E8%BC%89/"/>
     
   </entry>
   
@@ -605,31 +635,6 @@
     <category term="2024 May" scheme="https://zeldabotw2.github.io/tags/2024-May/"/>
     
     <category term="星戰" scheme="https://zeldabotw2.github.io/tags/%E6%98%9F%E6%88%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何用手機遠端操控另一支手機？</title>
-    <link href="https://zeldabotw2.github.io/Remote-Control-Mobile-to-Mobile/"/>
-    <id>https://zeldabotw2.github.io/Remote-Control-Mobile-to-Mobile/</id>
-    <published>2024-04-16T16:00:00.000Z</published>
-    <updated>2024-04-17T11:50:41.467Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;上次教了大家&lt;a href=&quot;https://zeldabotw2.github.io/Tsum-Auto-Sender-With-Spare-Mobile/&quot;&gt;《手機自心教學：免費、免</summary>
-        
-      
-    
-    
-    
-    <category term="Disney Tsum Tsum" scheme="https://zeldabotw2.github.io/categories/Disney-Tsum-Tsum/"/>
-    
-    
-    <category term="Tsum Tsum" scheme="https://zeldabotw2.github.io/tags/Tsum-Tsum/"/>
     
   </entry>
   
