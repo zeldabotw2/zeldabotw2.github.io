@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zeldabotw2.github.io/Princess-Scarecrow/</loc>
+    
+    <lastmod>2025-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeldabotw2.github.io/Lightning-Boys/</loc>
+    
+    <lastmod>2025-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zeldabotw2.github.io/Pitchfader/</loc>
     
     <lastmod>2025-09-13</lastmod>
@@ -41,15 +59,6 @@
     <loc>https://zeldabotw2.github.io/Silk-and-Soul/</loc>
     
     <lastmod>2025-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zeldabotw2.github.io/Lightning-Boys/</loc>
-    
-    <lastmod>2025-09-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
