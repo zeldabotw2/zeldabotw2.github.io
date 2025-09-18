@@ -6,7 +6,7 @@
   <link href="https://zeldabotw2.github.io/atom.xml" rel="self"/>
   
   <link href="https://zeldabotw2.github.io/"/>
-  <updated>2025-09-13T05:50:49.982Z</updated>
+  <updated>2025-09-18T06:23:54.136Z</updated>
   <id>https://zeldabotw2.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《太鼓達人》★楽園☆CASINO GALAXY！| 全難易度譜面</title>
+    <link href="https://zeldabotw2.github.io/Casino-Galaxy/"/>
+    <id>https://zeldabotw2.github.io/Casino-Galaxy/</id>
+    <published>2025-09-17T16:00:00.000Z</published>
+    <updated>2025-09-18T06:23:54.136Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Casino-Galaxy/casino_galaxy.png&quot; alt=&quot;casino_galaxy&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;鬼級譜面圖&quot;&gt;鬼級譜面圖&lt;/h3&gt;
+&lt;p&gt;待補，歹救補（？）&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="太鼓達人" scheme="https://zeldabotw2.github.io/categories/%E5%A4%AA%E9%BC%93%E9%81%94%E4%BA%BA/"/>
+    
+    
+    <category term="太鼓達人" scheme="https://zeldabotw2.github.io/tags/%E5%A4%AA%E9%BC%93%E9%81%94%E4%BA%BA/"/>
+    
+    <category term="TJA" scheme="https://zeldabotw2.github.io/tags/TJA/"/>
+    
+    <category term="譜面下載" scheme="https://zeldabotw2.github.io/tags/%E8%AD%9C%E9%9D%A2%E4%B8%8B%E8%BC%89/"/>
+    
+  </entry>
   
   <entry>
     <title>《太鼓達人》ピッチフェイダ | Pitchfader | 全難易度譜面</title>
@@ -601,33 +633,6 @@
     <category term="車隊" scheme="https://zeldabotw2.github.io/tags/%E8%BB%8A%E9%9A%8A/"/>
     
     <category term="撞到分隔島" scheme="https://zeldabotw2.github.io/tags/%E6%92%9E%E5%88%B0%E5%88%86%E9%9A%94%E5%B3%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《黑帝斯》如何適配 21:9 寬螢幕？</title>
-    <link href="https://zeldabotw2.github.io/Hades-Ultra-Wide/"/>
-    <id>https://zeldabotw2.github.io/Hades-Ultra-Wide/</id>
-    <published>2024-11-06T16:00:00.000Z</published>
-    <updated>2024-11-07T14:15:41.562Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/Hades-Ultra-Wide/cover.jpg&quot; alt=&quot;Hades&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;黑帝斯不適配嗎？&quot;&gt;黑帝斯不適配嗎？&lt;/h2&gt;
-&lt;p&gt;黑帝斯有原生適配超寬螢幕，台輟這邊拿 3440x1440</summary>
-        
-      
-    
-    
-    
-    <category term="黑帝斯" scheme="https://zeldabotw2.github.io/categories/%E9%BB%91%E5%B8%9D%E6%96%AF/"/>
-    
-    
-    <category term="Hades" scheme="https://zeldabotw2.github.io/tags/Hades/"/>
     
   </entry>
   
